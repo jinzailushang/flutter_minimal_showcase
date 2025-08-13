@@ -1,0 +1,24 @@
+# Flutter/Dart/Pub
+**/doc/api/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_export_environment.sh
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+# VS Code related
+.vscode/
+# Flutter specific
+android/.gradle/
+android/app/release/
+**/GeneratedPluginRegistrant.java
+**/GeneratedPluginRegistrant.swift
+# MacOS
+.DS_Store
+# Coverage
+coverage/
