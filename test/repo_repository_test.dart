@@ -11,7 +11,7 @@ class _MockDio extends Mock implements Dio {}
 void main() {
   test('RepoRepository.search returns list', () async {
     final dio = _MockDio();
-    when(() => dio.get(any(), queryParameters: any<Map<String, dynamic>>()))
+    when(() => dio.get(any(), queryParameters: any(named: 'queryParameters')))
         .thenAnswer((_) async => Response(
               requestOptions: RequestOptions(path: ''),
               data: {
