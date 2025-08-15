@@ -1,6 +1,12 @@
 # Flutter 最小演示项目
 
 一个用于展示的最小 Flutter 项目，覆盖状态管理、网络、性能与工程化（CI/CD、Docker）。
+IOS
+<img width="898" height="1910" alt="image" src="https://github.com/user-attachments/assets/9db2db96-838e-4826-975c-6f34e734aa15" />
+Android
+<img width="946" height="1868" alt="image" src="https://github.com/user-attachments/assets/c618a633-19a7-46c2-8338-1c12ccebe25d" />
+web
+<img width="946" height="1868" alt="image" src="https://github.com/user-attachments/assets/787c3e14-7e28-421e-b934-fa12c1ea5d91" />
 
 ## 亮点
 - Riverpod 状态管理、Dio 网络、Navigator 2.0（go_router）
