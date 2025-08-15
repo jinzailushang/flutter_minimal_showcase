@@ -6,7 +6,7 @@ IOS
 Android
 <img width="946" height="1868" alt="image" src="https://github.com/user-attachments/assets/c618a633-19a7-46c2-8338-1c12ccebe25d" />
 web
-<img width="946" height="1868" alt="image" src="https://github.com/user-attachments/assets/8b2b5ee0-a71d-422d-a923-1b74ee7617fc" />
+<img width="2302" height="1604" alt="image" src="https://github.com/user-attachments/assets/ef20a61e-a84f-43f3-aae6-3a6c5e190976" />
 
 ## 亮点
 - Riverpod 状态管理、Dio 网络、Navigator 2.0（go_router）
